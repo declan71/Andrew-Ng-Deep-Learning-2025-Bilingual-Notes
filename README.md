@@ -4,8 +4,7 @@
 2025 最新吴恩达《ChatGPT Prompt Engineering for Developers》  
 全套高清中文 + 英文笔记，带详细案例与实操提示，永久免费下载
 
-### 下载（
--LIU ZHAO精华版）
+### 下载（LIU ZHAO精华版）
 - [中文完整版.pdf](吴恩达深度学习+ChatGPT提示工程2025最新全套中文笔记-刘照精华版.pdf)  
 - [English Full Version.pdf](Andrew-Ng-Deep-Learning-ChatGPT-Prompt-Engineering-2025-Bilingual-Notes-LucasLiu.pdf)
 
